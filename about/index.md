@@ -7,6 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+My name is Tan Hoang and I work as a Software Engineer in HCM. Outside of work, I sometimes spend time learning about Computer Science topics that interest me. This blog is where I hope to explain those topics based on my understanding.
