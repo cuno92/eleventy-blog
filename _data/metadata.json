@@ -1,5 +1,5 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "Kafka Learning - A blog by Tan Hoang.",
   "url": "https://update-me.com",
   "domain": "update-me.com",
   "description": "Description of the website. Update me.",
@@ -16,7 +16,7 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
+    "name": "Kafka - Tan Hoang.",
     "twitterHandle": "update_me"
   },
   "publisher": {
